@@ -1,2 +1,5 @@
-This is a project that improve to make own C printf function.
-And make it work
+Working on printf
+In this project we have to clone the printf
+function of C.
+And handle all case of wrinting
+int the output console.
